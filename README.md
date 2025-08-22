@@ -29,4 +29,9 @@ Clear patterns of peak vs. low booking periods
 Major reasons for cancellations identified.
 
 ✅ Dashboard Preview:
-![Ola Dashboard](Overall.png)
+![Ola Booking Overall Dashboard](Overall.png)
+![Ola Booking Vehicle Type Dashboard](Vehicle type.png)
+![Ola Booking Revenue Dashboard](Revenue.png)
+![Ola Booking Cancellation Dashboard](Cancellation.png)
+![Ola Booking Rating Dashboard](Rating.png)
+
